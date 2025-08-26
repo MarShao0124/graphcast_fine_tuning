@@ -1,0 +1,6 @@
+transformer-engine
+hydra-core
+wandb
+termcolor>=2.1.1
+torch-scatter 
+torch-geometric
